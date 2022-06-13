@@ -32,15 +32,18 @@
 
 .radio-menu-action {
   margin-left: 20px;
-  color: #eeeeec;
+  /*  color: #eeeeec;*/
+  color: #000000;
   border-radius: 32px;
   padding: 13px;
   border: 1px solid #282c2c; 
 }
 
 .radio-menu-action:hover, .radio-menu-action:focus {
-    background-color: rgba(238, 238, 236, 0.1);
-    color: #eeeeec;
+    /* background-color: rgba(238, 238, 236, 0.1);*/
+    background-color: #000000;
+    /* color: #eeeeec;*/
+    color: #FFFFFF;
     border: none;
     padding: 14px; 
 }
