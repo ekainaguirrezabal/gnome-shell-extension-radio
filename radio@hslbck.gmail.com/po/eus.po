@@ -1,0 +1,130 @@
+# Copyright (C) 2022 Ekain Aguirrezabal <ekain.aguirrezabal@gmail.com>
+# This file is distributed under the same license as the gnome-shell-extension-radio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell-extension-radio 1.6\n"
+"Report-Msgid-Bugs-To: hslbck@gmail.com\n"
+"POT-Creation-Date: 2022-06-16 17:56-0100\n"
+"PO-Revision-Date: 2016-06-15 17:56-0100\n"
+"Last-Translator: Ekain Aguirrezabal <ekain.aguirrezabal@gmail.com>\n"
+"Language-Team: \n"
+"Language: eus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: addChannelDialog.js:42
+msgid "Channel Name"
+msgstr "Kanalaren izena"
+
+#: addChannelDialog.js:62
+msgid "Stream Address"
+msgstr "Fluxuaren norabidea"
+
+#: addChannelDialog.js:81
+msgid "Charset (optional)"
+msgstr "Charset (aukeran)"
+
+#: addChannelDialog.js:105 searchDialog.js:108 channelListDialog.js:94
+msgid "Cancel"
+msgstr "Ezeztatu"
+
+#: addChannelDialog.js:109
+msgid "Save"
+msgstr "Gorde"
+
+#: addChannelDialog.js:109 searchDialog.js:114
+msgid "Add"
+msgstr "Gehitu"
+
+#: searchDialog.js:47
+msgid "Browse "
+msgstr "Nabigatu"
+
+#: searchDialog.js:68
+msgid "Search"
+msgstr "Bilatu"
+
+#: searchDialog.js:137
+msgid "Station added:"
+msgstr "Irrati-etxea gehituta"
+
+#: searchDialog.js:163
+msgid "No radio station found!"
+msgstr "Ez da irrati-etxerik aurkitu!"
+
+#: searchDialog.js:166
+msgid "Server returned status code"
+msgstr "Zerbitzariak egoera-kodea itzuli du"
+
+#: searchDialog.js:171
+msgid "Search input was empty!"
+msgstr "Bilaketaren sarrera hutsik zegoen."
+
+#: player.js:97
+msgid "Missing plugin"
+msgstr "Plugina falta da"
+
+#: player.js:134
+#, fuzzy
+msgid "Stream error"
+msgstr "Erreprodukzio-errorea"
+
+#: player.js:138
+msgid "End of stream"
+msgstr "Erreprodukzioaren amaiera"
+
+#: prefs.js:51
+msgid "Show title notifications"
+msgstr "Erakutsi izenburuaren jakinarazpenak"
+
+#: prefs.js:67
+#, fuzzy
+msgid "Show title notification in the panel"
+msgstr "Erakutsi izenburuaren jakinarazpena panelean"
+
+#: prefs.js:83
+msgid "Enable Play/Stop Media Keys"
+msgstr "Ahalbidetu Play/Stop teklak"
+
+#: prefs.js:99
+msgid "Show volume adjustment slider in menu"
+msgstr "Erakutsi bolumena doitzeko graduatzailea menuan"
+
+#: prefs.js:115
+msgid "Enable as search provider for GNOME Shell"
+msgstr "Gaitu bilaketa-hornitzaile gisa GNOME Shell-en"
+
+#: channelListDialog.js:54
+msgid "List of Channels"
+msgstr "Kanalen lista"
+
+#: channelListDialog.js:58
+msgid "Manage your radio stations"
+msgstr "Kudeatu zure irrati-kateak"
+
+#: channelListDialog.js:101
+msgid "Delete"
+msgstr "Ezabatu"
+
+#: channelListDialog.js:109
+msgid "Edit"
+msgstr "Editatu"
+
+#: channelListDialog.js:118
+msgid "Play"
+msgstr "Erreproduzitu"
+
+#: channelCreator.js:92
+msgid "No server stream address found!"
+msgstr "Ez da zerbitzariaren korronte helbiderik aurkitu!"
+
+#: channelCreator.js:94
+msgid "Invalid input stream address!"
+msgstr "Sarrerako korrontearen helbide baliogabea!"
+
+#~ msgid "Favourites"
+#~ msgstr "Gogokoak"
+
+#~ msgid "Channels"
+#~ msgstr "Kanalak"
